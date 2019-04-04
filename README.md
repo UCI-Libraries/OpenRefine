@@ -1,12 +1,12 @@
-UCI Libraries
+UCI Libraries Digital Scholarship Services
 
-Thursday January 31, 2019
+Wednesday May 8, 2019
 
 8:30 AM - 12:30 PM
 
-Instructor(s): Danielle Kane, Madelynn Dickerson
+Instructor(s): Madelynn Dickerson, Shu Liu
 
-<b><a href="https://www.eventbrite.com/e/intro-to-unix-shell-tickets-53820982006">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/uci-libraries-intro-to-unix-shell-tickets-59927388432">REGISTER HERE</a></b>
 
 Please Note: You must be a UCI affiliate to register, please contact kaned@uci.edu if you are not a member of the UCI community to see if there is room before registering
 
@@ -14,9 +14,9 @@ Please Note: You must be a UCI affiliate to register, please contact kaned@uci.e
 
 **Who:** The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
 
-**Where:** Langson Library Rm 228. Get directions with <a href="https://www.openstreetmap.org/#map=17/33.64745/-117.83871">OpenStreetMap</a> or <a href="https://goo.gl/maps/528F8BGTYvJ2">Google Maps</a>.
+**Where:** Langson Library Rm 228. Get directions with <a href="https://www.openstreetmap.org/export#map=19/33.64712/-117.84109">OpenStreetMap</a>.
 
-**When:** January 31, 2019. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Nmhkc2U0dHUzYmxnaWE5cmpydXRhYmYwNmUga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
+**When:** May 8, 2019. <<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M3I2NDRscjAzMmtuM2ZvbnM0OGJrdDU2bjAga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>">Add to your Google Calendar</a>.
 
 **Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
