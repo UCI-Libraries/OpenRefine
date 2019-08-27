@@ -1,14 +1,15 @@
 UCI Libraries Digital Scholarship Services
 
-Wednesday May 8, 2019
+Thursday November 7, 2019
 
-8:30 AM - 12:30 PM
+1:00 PM - 5:00 PM
 
-Instructor(s): Madelynn Dickerson, Shu Liu
+Instructor(s): Shu Liu
+Helper(s): Danielle Kane
 
-<b><a href="https://www.eventbrite.com/e/uci-libraries-intro-to-unix-shell-tickets-59927388432">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/uci-libraries-intro-to-unix-shell-tickets-70667493375">REGISTER HERE</a></b>
 
-Please Note: You must be a UCI affiliate to register, please contact kaned@uci.edu if you are not a member of the UCI community to see if there is room before registering
+Please Note: You must be a UCI affiliate to register, please contact Danielle Kane: kaned@uci.edu if you are not a member of the UCI community to see if there is room before registering
 
 **General Information:** The Unix shell has been around longer than most of its users have been alive. It has survived so long because it’s a power tool that allows people to do complex things with just a few keystrokes. More importantly, it helps them combine existing programs in new ways and automate repetitive tasks so they aren’t typing the same things over and over again. Use of the shell is fundamental to using a wide range of other powerful tools and computing resources (including “high-performance computing” supercomputers). These lessons will start you on a path towards using these resources effectively.
 
@@ -16,7 +17,7 @@ Please Note: You must be a UCI affiliate to register, please contact kaned@uci.e
 
 **Where:** Langson Library Rm 228. Get directions with <a href="https://www.openstreetmap.org/export#map=19/33.64712/-117.84109">OpenStreetMap</a>.
 
-**When:** May 8, 2019. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M3I2NDRscjAzMmtuM2ZvbnM0OGJrdDU2bjAga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>">Add to your Google Calendar</a>.
+**When:** November 7, 2019. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NnFxbm1scThjc3ZmbmIzMTZzajNydGc3OTAga2FuZWRAdWNpLmVkdQ&tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>">Add to your Google Calendar</a>.
 
 **Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
