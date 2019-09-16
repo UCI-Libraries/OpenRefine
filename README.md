@@ -15,23 +15,23 @@ Please Note: You must be a UCI affiliate to register, please contact Danielle Ka
 
 OpenRefine is most useful where you have data in a simple tabular format such as a spreadsheet, a comma separated values file (csv) or a tab delimited file (tsv) but with internal inconsistencies either in data formats, or where data appears, or in terminology used. OpenRefine can be used to standardize and clean data across your file. It can help you:
 
-    Get an overview of a data set
-    Resolve inconsistencies in a data set, for example standardizing date formatting
-    Help you split data up into more granular parts, for example splitting up cells with multiple authors into separate cells
-    Match local data up to other data sets, for example in matching local subjects against the Library of Congress Subject Headings
-    Enhance a data set with data from other sources
+    1. Get an overview of a data set
+    2. Resolve inconsistencies in a data set, for example standardizing date formatting
+    3. Help you split data up into more granular parts, for example splitting up cells with multiple authors into separate cells
+    4. Match local data up to other data sets, for example in matching local subjects against the Library of Congress Subject Headings
+    5. Enhance a data set with data from other sources
 
 Some common scenarios might be:
 
-    Where you want to know how many times a particular value (name, publisher, subject) appears in a column in your data
-    Where you want to know how values are distributed across your whole data set
-    Where you have a list of dates which are formatted in different ways, and want to change all the dates in the list to a single common date format.
+    1. Where you want to know how many times a particular value (name, publisher, subject) appears in a column in your data
+    2. Where you want to know how values are distributed across your whole data set
+    3. Where you have a list of dates which are formatted in different ways, and want to change all the dates in the list to a single common date format.
 
 **Who:** The course is aimed at graduate students and other researchers, including undergrads, faculty, staff and community members. <b>You don't need to have any previous knowledge of the tools that will be presented at the workshop.</b> 
 
 **Where:** Langson Library Rm 228. Get directions with <a href="https://www.openstreetmap.org/export#map=19/33.64712/-117.84109">OpenStreetMap</a>.
 
-**When:** October 18, 2019. <a target="_blank" href="<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NjllbHZvYTZnYnZhOG4yanJqZnRjNzcxMmsga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
+**When:** October 18, 2019. <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NjllbHZvYTZnYnZhOG4yanJqZnRjNzcxMmsga2FuZWRAdWNpLmVkdQ&amp;tmsrc=kaned%40uci.edu"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif">Add to your Google Calendar</a>.
 
 **Requirements:** Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed below). 
 
