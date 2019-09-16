@@ -44,56 +44,32 @@ Materials will be provided in at the workshop and large-print handouts are avail
 
 **Contact:** Please email Danielle Kane at kaned@uci.edu for more information.
 
-Syllabus: The Unix Shell
+Syllabus: OpenRefine
 
-1. Files and directories
-2. History and tab completion
-3. Pipes and redirection
-4. Looping over files
-5. Creating and running shell scripts
-6. Finding things
+1. Importing data
+2. Layout of OpenRefine, Rows vs Records
+3. Faceting and filtering
+4. Clustering
+5. Working with columns and sorting
+6. Transformations
+7. Advanced functions
  
 **Setup**
 
-You will need access to the software described below. In addition, you will need an up-to-date web browser.
+Installing and running OpenRefine
 
-We maintain a list of common issues that occur during installation as a reference for instructors that may be useful on the Configuration Problems and Solutions wiki page.
+You can download OpenRefine from <a target="_blank" http://openrefine.org/download.html">. This lesson has been tested with all versions of OpenRefine up to the latest tested version, 3.2.
 
-**The Bash Shell**
+If you are using an older version, it is recommended you upgrade to the latest tested version.
 
-Bash is a commonly-used shell that gives you the power to do simple tasks more quickly. <a href="https://gitforwindows.org">Download the Git for Windows installer</a>.
+There are versions for Windows, macOS and Linux.
 
-    Run the installer and follow the steps bellow:
-        Click on "Next".
-        Click on "Next".
-        Keep "Use Git from the Windows Command Prompt" selected and click on "Next". If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.
-        Click on "Next".
-        Keep "Checkout Windows-style, commit Unix-style line endings" selected and click on "Next".
-        Keep "Use Windows' default console window" selected and click on "Next".
-        Click on "Install".
-        Click on "Finish".
-    If your "HOME" environment variable is not set (or you don't know what this is):
-        Open command prompt (Open Start Menu then type cmd and press [Enter])
-        Type the following line into the command prompt window exactly as shown:
+Please follow the installation instructions on the OpenRefine wiki: Installation Instructions
 
-        setx HOME "%USERPROFILE%"
-        Press [Enter], you should see SUCCESS: Specified value was saved.
-        Quit command prompt by typing exit then pressing [Enter]
+Notes:
 
-This will provide you with both Git and Bash in the Git Bash program.
+When you download OpenRefine for Windows or Linux from the address above, you are downloading a zip file. To install OpenRefine you simply unzip the downloaded file wherever you want to install the program. This can be to a personal directory or to an applications or software directory - OpenRefine should run wherever you put the unzipped folder. The location has to be a “local” drive as problems have been reported trying to run OpenRefine from a Network drive.
+    
+OpenRefine is a Java application, and you need to have a ‘Java Runtime Environment’ (JRE) installed on your computer to run OpenRefine. If you don’t already have one installed then you can download and install from http://java.com by going to the site and clicking “Free Java Download”.
 
-Mac OS X: The default shell in all versions of Mac OS X is Bash, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
-
-Linux: The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
-
-**Text Editor**
-
-When you're writing code, it's nice to have a text editor that is optimized for writing code, with features like automatic color-coding of key words. The default text editor on Mac OS X and Linux is usually set to Vim, which is not famous for being intuitive. if you accidentally find yourself stuck in it, try typing the escape key, followed by :q! (colon, lower-case 'q', exclamation mark), then hitting Return to return to the shell.
- 
-Windows: nano is a basic editor and the default that instructors use in the workshop. It is installed along with Git. Other editors that you can use are Notepad++ or Sublime Text. Be aware that you must add its installation directory to your system path. Please ask your instructor to help you do this. 
-
-macOS: nano is a basic editor and the default that instructors use in the workshop. See the Git installation video tutorial for an example on how to open nano. It should be pre-installed. Other editors that you can use are Text Wrangler or Sublime Text.
-
-Linux: nano is a basic editor and the default that instructors use in the workshop. It should be pre-installed. Other editors that you can use are Gedit, Kate or Sublime Text.
-
-
+OpenRefine does not support Internet Explorer or Edge. Please use Firefox, Chrome or Safari instead.
