@@ -7,7 +7,7 @@ Friday October 18, 2019
 Instructor(s): Danielle Kane
 Helper(s): Madelynn Dickerson
 
-<b><a href="https://www.eventbrite.com/e/uci-libraries-intro-to-unix-shell-tickets-70667493375">REGISTER HERE</a></b>
+<b><a href="https://www.eventbrite.com/e/uci-libraries-openrefine-tickets-73037137043">REGISTER HERE</a></b>
 
 Please Note: You must be a UCI affiliate to register, please contact Danielle Kane: kaned@uci.edu if you are not a member of the UCI community to see if there is room before registering
 
